@@ -1,3 +1,5 @@
+![Flag of Ukraine](https://en.wikipedia.org/wiki/Ukraine#/media/File:Flag_of_Ukraine.svg)
+
 # ukraine_data
 
 Twitter (and maybe later social media) data around the Ukraine Invasion in February 2022
