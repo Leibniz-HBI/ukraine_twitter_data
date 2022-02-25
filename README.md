@@ -61,4 +61,4 @@ As we share only Tweet IDs, accounts can [protect themselves](https://twitter.co
 
 We think, sharing this collection contributes to the cause of open science.
 
-Furthermore, while much of the information contained in the tweets will be disinformation, this dataset at least provides transparancy by enabling researchers and OSINT experts to analyse it independently.
+Furthermore, while much of the information contained in the tweets will be disinformation, this dataset at least provides transparancy by enabling researchers and OSINT experts to analyse it independently, which is in the public interest of democratic states.
