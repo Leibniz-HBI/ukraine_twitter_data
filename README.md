@@ -4,6 +4,10 @@
 
 Twitter (and maybe later social media) data around the Ukraine Invasion in February 2022
 
+Citation recommendations can be found on OSF:
+
+https://doi.org/10.17605/OSF.IO/RTQXN
+
 ## FAQ
 
 ### What data is available?
@@ -43,7 +47,6 @@ Via the Twitter API, e.g. with [twarc](https://twarc-project.readthedocs.io/en/l
 We provide files that do contain the tweet IDs only for this purpose.
 
 If you need any data that is not available this way, we might be able to help you, pending an ethical evaluation of your research goals.
-
 
 ### Is this ethical/allowed?
 
