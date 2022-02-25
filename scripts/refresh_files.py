@@ -60,13 +60,14 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
         twitter.tweets t
     where
         "event" = '{name}' and 
-        date_trunc('day', created_at) = '{date}'"""
+        date_trunc('day', created_at) = '{date}'
+    order by id"""
 
             data = pd.read_sql_query(query, con=engine)
 
             if event['name'] != event['db_id']:
                 # update event too inlcude lang-codes.
-                data['event'] = event['db_id']
+                data['event'] = event['name']
 
             if len(data) > 0:
                 # generate file for hydrator (plain txt, each id is a line)
