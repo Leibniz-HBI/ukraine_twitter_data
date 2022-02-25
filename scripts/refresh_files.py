@@ -15,9 +15,6 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
     event_conf_path = Path("config.yaml")
     db_conf_path    = Path("db_conf.yaml")
 
-    print(event_conf_path.resolve())
-    print(date)
-
     with event_conf_path.open() as file:
         events = safe_load(file)['events']
     with db_conf_path.open() as file:
@@ -34,9 +31,6 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
         dates = [_ for _ in pd.date_range(start_date, end_date).format()]
     else:
         return
-
-    print(dates)
-    print(events)
 
     for date in dates:
         date = str(date)
@@ -68,7 +62,11 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
         "event" = '{name}' and 
         date_trunc('day', created_at) = '{date}'"""
 
-            data = pd.read_sql_query(query,con=engine)
+            data = pd.read_sql_query(query, con=engine)
+
+            if event['name'] != event['db_id']:
+                # update event too inlcude lang-codes.
+                data['event'] = event['db_id']
 
             if len(data) > 0:
                 # generate file for hydrator (plain txt, each id is a line)
