@@ -1,6 +1,7 @@
 # Twitter
 
-Every folder contains daily files with tweet ids of tweets which contain the word 'ukraine', as retrieved by the search endpoint of the Academic Twitter API.
+Every folder contains daily files with tweet ids of tweets in the respective language which contain the word 'ukraine', as retrieved by the search endpoint of the Academic Twitter API.
+
 The date in the filename represents the date of the tweets' creation.
 
 There are two versions:
