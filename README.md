@@ -1,4 +1,4 @@
-![Flag of Ukraine](https://en.wikipedia.org/wiki/Ukraine#/media/File:Flag_of_Ukraine.svg)
+![Flag of Ukraine](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png)
 
 # ukraine_data
 
