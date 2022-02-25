@@ -32,7 +32,6 @@ You find information on whether an ID was collected via the search ('backfilled'
 
 We will add languages over time. So far we have planned English, German, Russian and Ukrainian.
 
-
 ### How is the data structured?
 
 We share the data in language specific folders.
