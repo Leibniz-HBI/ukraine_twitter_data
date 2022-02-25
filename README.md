@@ -65,6 +65,6 @@ As we share only Tweet IDs, accounts can [protect themselves](https://twitter.co
 
 We think, sharing this collection contributes to the cause of open science.
 
-Furthermore, while much of the information contained in the tweets will be disinformation, this dataset at least provides transparency by enabling researchers and OSINT experts to analyse it independently, which is in the public interest of democratic states.
+Furthermore, while much of the information contained in the tweets will be dis- and misinformation, this dataset at least provides transparency by enabling researchers and OSINT experts to analyse it independently, which is in the public interest of democratic states.
 
 However, we still ask you to assess your respective use of this data with your ethical review board, and/or with our ethical and legal guidance questionaire [SOCRATES](<https://leibniz-hbi.github.io/socrates/#41-legal-gdpr-and-the-german-federal-data-protection-act>)
