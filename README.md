@@ -6,7 +6,7 @@ Twitter (and maybe later social media) data around the Ukraine Invasion in Febru
 
 Citation recommendations can be found on OSF:
 
-https://doi.org/10.17605/OSF.IO/RTQXN
+<https://doi.org/10.17605/OSF.IO/RTQXN>
 
 ## FAQ
 
