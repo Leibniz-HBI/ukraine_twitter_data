@@ -8,7 +8,22 @@ Twitter (and maybe later social media) data around the Ukraine Invasion in Febru
 
 ### What data is available?
 
-To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs only.
+Right now, we provide data on tweets that contain the word 'ukraine' in different languages since February 1st.
+
+To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
+
+### How was this data collected?
+
+With the [focalevents](https://github.com/ryanjgallagher/focalevents) tool by @ryanjgallagher using our Academic Twitter API access.
+
+We query tweets that contain the keyword 'ukraine' and filter for languages detected by Twitter.
+
+We started collecting tweets on 24. February, backfilling tweets since 1. February.
+
+You find information on whether an ID was collected via the search ('backfilled') or streamed in the data itself. Backfilled data will not contain tweets that have been deleted before the collection time.
+
+We will add languages over time. So far we have planned English, German, Russian and Ukrainian.
+
 
 ### How is the data structured?
 
@@ -29,17 +44,6 @@ We provide files that do contain the tweet IDs only for this purpose.
 
 If you need any data that is not available this way, we might be able to help you, pending an ethical evaluation of your research goals.
 
-### How was this data collected?
-
-With the [focalevents](https://github.com/ryanjgallagher/focalevents) tool by @ryanjgallagher using our Academic Twitter API access.
-
-We query tweets that contain the keyword 'ukraine' and filter for languages detected by Twitter.
-
-We started collecting tweets on 24. February, backfilling tweets since 1. February.
-
-You find information on whether an ID was collected via the search ('backfilled') or streamed in the data itself. Backfilled data will not contain tweets that have been deleted before the collection time.
-
-We will add languages over time. So far we have planned English, German, Russian and Ukrainian.
 
 ### Is this ethical/allowed?
 
