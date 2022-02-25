@@ -1,6 +1,6 @@
-**Disclaimer: This is work in progress! Please validate and verify data via spot checks and make sure its plausible before relying on it.**
-
 # ukraine_data
+
+**Disclaimer: This is work in progress! Please validate and verify data via spot checks and make sure its plausible before relying on it.**
 
 ![Flag of Ukraine](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png)
 
@@ -55,7 +55,9 @@ If you need any data that is not available this way, we might be able to help yo
 
 ### Is this ethical/allowed?
 
-Because we publish tweet IDs only, we comply with the European GDPR as well as the Twitter TOS.
+Because we publish tweet IDs only, we comply with the Twitter TOS.
+
+Given the public interest in this data and that this data will be indispensable for presenting research findings on events in contemporary history we also comply with the GDPR, especially its German implentation, the DSGVO ([Art 6 (1) f) GDPR in connection with Art 85 GDPR, § 27 BDSG](https://leibniz-hbi.github.io/socrates/#41-legal-gdpr-and-the-german-federal-data-protection-act)).
 
 From an ethical standpoint, we do not share any data the conflict parties would not have collected or be able to collect anyway.
 
@@ -64,3 +66,5 @@ As we share only Tweet IDs, accounts can [protect themselves](https://twitter.co
 We think, sharing this collection contributes to the cause of open science.
 
 Furthermore, while much of the information contained in the tweets will be disinformation, this dataset at least provides transparency by enabling researchers and OSINT experts to analyse it independently, which is in the public interest of democratic states.
+
+However, we still ask you to assess your respective use of this data with your ethical review board, and/or with our ethical and legal guidance questionaire [SOCRATES](<https://leibniz-hbi.github.io/socrates/#41-legal-gdpr-and-the-german-federal-data-protection-act>)
