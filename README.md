@@ -57,6 +57,8 @@ Because we publish tweet IDs only, we comply with the European GDPR as well as t
 
 From an ethical standpoint, we do not share any data the conflict parties would not have collected or be able to collect anyway.
 
+As we share only Tweet IDs, accounts can [protect themselves](https://twitter.com/TwitterSafety/status/1496698664747687942?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1496698664747687942%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.tagesschau.de%2Fausland%2Famerika%2Fsocial-media-sicherheit-ukraine-101.html) at any time.
+
 We think, sharing this collection contributes to the cause of open science.
 
 Furthermore, while much of the information contained in the tweets will be disinformation, this dataset at least provides transparancy by enabling researchers and OSINT experts to analyse it independently.
