@@ -1,0 +1,9 @@
+events:
+  - name: ukraine-de
+    db_id: ukraine
+  - name: ukraine-en
+    db_id: ukraine-en
+  - name: ukraine-ru
+    db_id: ukraine-ru
+  - name: ukraine-uk
+    db_id: ukraine-uk
