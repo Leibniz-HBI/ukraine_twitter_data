@@ -1,3 +1,6 @@
 db_conf.yaml
 
+Pipfile.lock
+
+*.log
 notebooks/
