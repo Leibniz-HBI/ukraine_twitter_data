@@ -6,6 +6,8 @@
 
 Twitter (and maybe later other social media) data around the Ukraine Invasion in February 2022
 
+Data reaches back until February 1st and will be updated daily.
+
 Please cite as:
 
 > Münch, F. V., & Kessling, P. (2022, February 25). ukraine_data. https://doi.org/10.17605/OSF.IO/RTQXN
