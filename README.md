@@ -2,7 +2,7 @@
 
 ![Flag of Ukraine](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png)
 
-Twitter (and maybe later social media) data around the Ukraine Invasion in February 2022
+Twitter (and maybe later other social media) data around the Ukraine Invasion in February 2022
 
 Citation recommendations can be found on OSF:
 
