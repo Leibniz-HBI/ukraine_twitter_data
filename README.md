@@ -22,6 +22,13 @@ Other citation styles can be found on OSF:
 
 Right now, we provide data on tweets that contain the word 'ukraine' in different languages since February 1st [here](Twitter/).
 
+Collection complete from 1st to 24th February in the following languages so far:
+
+* German (done)
+* ~~English~~ (collection ongoing)
+* ~~Russian~~ (not yet started)
+* ~~Ukrainian~~ (not yet started)
+
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
 
 ### How was this data collected?
