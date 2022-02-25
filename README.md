@@ -18,7 +18,7 @@ Other citation styles can be found on OSF:
 
 ### What data is available?
 
-Right now, we provide data on tweets that contain the word 'ukraine' in different languages since February 1st.
+Right now, we provide data on tweets that contain the word 'ukraine' in different languages since February 1st [here](Twitter/).
 
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
 
