@@ -29,6 +29,8 @@ Collection complete from 1st to 24th February in the following languages so far:
 * ~~Russian~~ (not yet started)
 * ~~Ukrainian~~ (not yet started)
 
+After the backfill is completed, we plan to collect data every day.
+
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
 
 ### How was this data collected?
