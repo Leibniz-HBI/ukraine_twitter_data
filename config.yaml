@@ -13,4 +13,4 @@ events:
     target_folder: 'Twitter/Ukrainian/'
   - name: ukraine-en-hashtag
     db_id: ukraine-en-hashtag
-    target_folder: 'Twitter/English-Hashtag'
+    target_folder: 'Twitter/English-Hashtag/'
