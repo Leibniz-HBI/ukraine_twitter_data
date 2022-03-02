@@ -76,16 +76,14 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
                     to_csv(
                         f'{event["target_folder"]}hydrator-{date}-{event["name"]}.csv',
                         index=False,
-                        header = False,
-                        chunksize=500000
+                        header = False
                     )
                 # dump csv without 'created_at'
                 data.\
                     drop(['created_at'], axis = 1).\
                     to_csv(
                         f'{event["target_folder"]}{date}-{event["name"]}.csv',
-                        index=False,
-                        chunksize=500000
+                        index=False
                     )
         
 if __name__ == '__main__':
