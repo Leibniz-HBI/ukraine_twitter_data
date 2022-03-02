@@ -73,11 +73,20 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
             if len(data) > 0:
                 # generate file for hydrator (plain txt, each id is a line)
                 data[['id']].\
-                    to_csv(f'{event["target_folder"]}hydrator-{date}-{event["name"]}.csv', index=False, header = False)
+                    to_csv(
+                        f'{event["target_folder"]}hydrator-{date}-{event["name"]}.csv',
+                        index=False,
+                        header = False,
+                        chunksize=500000
+                    )
                 # dump csv without 'created_at'
                 data.\
                     drop(['created_at'], axis = 1).\
-                    to_csv(f'{event["target_folder"]}{date}-{event["name"]}.csv', index=False)
+                    to_csv(
+                        f'{event["target_folder"]}{date}-{event["name"]}.csv',
+                        index=False,
+                        chunksize=500000
+                    )
         
 if __name__ == '__main__':
     main()
