@@ -9,7 +9,7 @@ import datetime
 @click.option('--date', type=click.DateTime())
 @click.option('--start_date', type=click.DateTime())
 @click.option('--end_date', type=click.DateTime())
-# @click.option('--event_names', nargs=-1)
+@click.argument('event_names', nargs=-1)
 def main(date: datetime.date = None, start_date: datetime.date = None, end_date: datetime.date = None, event_names: list[str] = None):
 
     event_conf_path = Path("config.yaml")
@@ -21,7 +21,7 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
         db_config = safe_load(file)
 
     engine = create_engine(f'postgresql://{db_config["db_user"]}:{db_config["db_password"]}@{db_config["db_host"]}:{db_config["db_port"]}/{db_config["db_name"]}')
-    
+
     if date is not None:
         dates = [date]
     elif start_date is not None: 
@@ -32,9 +32,10 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
     else:
         # default to yesterdays date
         dates = [datetime.date.today() - datetime.timedelta(days = 1)]
-
+    if len(event_names) == 0:
+        events = [event for event in events if event['name'] in event_names]
     for date in dates:
-        date = str(date)
+        date = date.strftime('%F')
 
         for event in events:
             name = event['db_id']
@@ -64,27 +65,29 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
         date_trunc('day', created_at) = '{date}'
     order by id"""
 
-            data = pd.read_sql_query(query, con=engine)
+            for index, data in enumerate(pd.read_sql_query(query, con=engine, chunksize=500000)):
 
-            if event['name'] != event['db_id']:
-                # update event too inlcude lang-codes.
-                data['event'] = event['name']
+                if len(data) > 0:
+                    if event['name'] != event['db_id']:
+                        # update event too inlcude lang-codes.
+                        data['event'] = event['name']
 
-            if len(data) > 0:
-                # generate file for hydrator (plain txt, each id is a line)
-                data[['id']].\
-                    to_csv(
-                        f'{event["target_folder"]}hydrator-{date}-{event["name"]}.csv',
-                        index=False,
-                        header = False
-                    )
-                # dump csv without 'created_at'
-                data.\
-                    drop(['created_at'], axis = 1).\
-                    to_csv(
-                        f'{event["target_folder"]}{date}-{event["name"]}.csv',
-                        index=False
-                    )
+                    # generate file for hydrator (plain txt, each id is a line)
+                    file
+                    data[['id']].\
+                        to_csv(
+                            f'{event["target_folder"]}hydrator-{date}-{event["name"]}.csv',
+                            index=False,
+                            header = False,
+                            mode='a'
+                        )
+                    # dump csv without 'created_at'
+                    data.\
+                        drop(['created_at'], axis = 1).\
+                        to_csv(
+                            f'{event["target_folder"]}{date}-{event["name"]}_{index}.csv',
+                            index=False
+                        )
         
 if __name__ == '__main__':
     main()
