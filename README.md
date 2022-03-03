@@ -20,16 +20,18 @@ Other citation styles can be found on OSF:
 
 ### What data is available?
 
-Right now, we provide data on tweets that contain the word 'ukraine' in different languages since February 1st [here](Twitter/).
+Right now, we provide data on tweets that contain the hashtag 'ukraine' in different languages since February 1st [here](Twitter/).
 
-Collection complete from 1st to 24th February in the following languages so far:
+Collection complete from 1st to 28th February in the following languages so far, automatic updates are planned to be committed daily:
 
-* German (done)
-* ~~English~~ (collection ongoing)
-* ~~Russian~~ (not yet started)
-* ~~Ukrainian~~ (not yet started)
+| language                               | Tweet count |
+| -------------------------------------- | ----------- |
+| german (query: ukraine AND lang='de')  | 1,646,411   |
+| english (query: ukraine AND lang='en') | 6,205,853   |
+| english (query: ukraine AND lang='en') | 5,075,811   |
+| ukraine-ru (query:)                    | 581,162     |
+| ukraine-uk (query:)                    | 383,245     |
 
-After the backfill is completed, we plan to collect data every day.
 
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
 
@@ -37,7 +39,7 @@ To comply with Twitter TOS and protect people who have decided to delete their t
 
 With the [focalevents](https://github.com/ryanjgallagher/focalevents) tool by @ryanjgallagher using our Academic Twitter API access.
 
-We query tweets that contain the keyword 'ukraine' and filter for languages detected by Twitter.
+We query tweets that contain the keywords stated above and filter for languages detected by Twitter.
 
 We started collecting tweets on 24. February, backfilling tweets since 1. February.
 
