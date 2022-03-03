@@ -9,7 +9,7 @@ import datetime
 @click.option('--date', type=click.DateTime())
 @click.option('--start_date', type=click.DateTime())
 @click.option('--end_date', type=click.DateTime())
-@click.argument('event_names', nargs=-1)
+@click.argument('event_names', nargs=-1, help="speicify which configured event you want to export from the database. Leave empty to export all.")
 def main(date: datetime.date = None, start_date: datetime.date = None, end_date: datetime.date = None, event_names: list[str] = None):
 
     event_conf_path = Path("config.yaml")
@@ -32,7 +32,7 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
     else:
         # default to yesterdays date
         dates = [datetime.date.today() - datetime.timedelta(days = 1)]
-    if len(event_names) == 0:
+    if len(event_names) != 0:
         events = [event for event in events if event['name'] in event_names]
     for date in dates:
         date = date.strftime('%F')
