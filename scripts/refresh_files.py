@@ -21,7 +21,8 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
     with db_conf_path.open() as file:
         db_config = safe_load(file)
 
-    engine = create_engine(f'postgresql://{db_config["db_user"]}:{db_config["db_password"]}@{db_config["db_host"]}:{db_config["db_port"]}/{db_config["db_name"]}')
+    engine = create_engine(f'postgresql://{db_config["db_user"]}:{db_config["db_password"]}@{db_config["db_host"]}:{db_config["db_port"]}/{db_config["db_name"]}').\
+        execution_options(stream_results=True)
 
     if date is not None:
         dates = [date]
