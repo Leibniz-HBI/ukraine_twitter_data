@@ -75,7 +75,6 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
                         data['event'] = event['name']
 
                     # generate file for hydrator (plain txt, each id is a line)
-                    file
                     data[['id']].\
                         to_csv(
                             f'{event["target_folder"]}hydrator-{date}-{event["name"]}.csv',
