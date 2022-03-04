@@ -64,8 +64,8 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
         "event" = '{name}' and 
         date_trunc('day', created_at) = '{date}'
     order by id"""
-
-            for index, data in enumerate(pd.read_sql_query(query, con=engine, chunksize=500000)):
+            index = 0
+            for data in pd.read_sql_query(query, con=engine, chunksize=500000):
 
                 if len(data) > 0:
                     if event['name'] != event['db_id']:
@@ -88,6 +88,7 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
                             f'{event["target_folder"]}{date}-{event["name"]}_{index}.csv',
                             index=False
                         )
+                index += 1
         
 if __name__ == '__main__':
     main()
