@@ -28,7 +28,7 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
         # check if end_date is there:
         if end_date is None:
             end_date = datetime.date.today()
-        dates = [_ for _ in pd.date_range(start_date, end_date).format()]
+        dates = [_ for _ in pd.date_range(start_date, end_date)]
     else:
         # default to yesterdays date
         dates = [datetime.date.today() - datetime.timedelta(days = 1)]
