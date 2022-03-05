@@ -68,7 +68,7 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
     order by id"""
             index = 0
             for data in pd.read_sql_query(query, con=engine, chunksize=chunk_size):
-
+                print(f'Res shape for index {index}: {data.shape}')
                 if len(data) > 0:
                     if event['name'] != event['db_id']:
                         # update event too inlcude lang-codes.
