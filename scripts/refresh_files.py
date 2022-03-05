@@ -71,7 +71,7 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
                 print(f'Res shape for index {index}: {data.shape}')
                 if len(data) > 0:
                     if event['name'] != event['db_id']:
-                        # update event too inlcude lang-codes.
+                        # update event to include lang-codes.
                         data['event'] = event['name']
 
                     # generate file for hydrator (plain txt, each id is a line)
