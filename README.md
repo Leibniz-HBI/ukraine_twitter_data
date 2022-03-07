@@ -22,14 +22,14 @@ Other citation styles can be found on OSF:
 
 Right now, we provide data on tweets that contain the hashtag or word 'ukraine' (see query below) in different languages since February 1st [here](Twitter/).
 
-Collections are complete from 1. February 2022 in the following languages:
+Collections:
 
-| language                               | query                   |
-| -------------------------------------- | ----------------------- |
-| german                                 | ukraine AND lang='de'   | 
-| english (not yet complete)                                | #ukraine AND lang='en'  |
-| russian                                | Украина AND lang:ru     |
-| ukrainian                              |  Україна AND lang:uk    |
+| language                               | query                   | data nearly complete from    |
+| -------------------------------------- | ----------------------- | ---------------------------- |
+| german                                 | ukraine AND lang='de'   | 1. February 2022             |
+| english (not yet complete)             | #ukraine AND lang='en'  | 24. February 2022, 15:00 UTC |
+| russian                                | Украина AND lang:ru     | 1. February 2022             |
+| ukrainian                              |  Україна AND lang:uk    | 1. February 2022             |
 
 
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
