@@ -20,17 +20,16 @@ Other citation styles can be found on OSF:
 
 ### What data is available?
 
-Right now, we provide data on tweets that contain the hashtag 'ukraine' in different languages since February 1st [here](Twitter/).
+Right now, we provide data on tweets that contain the hashtag or word 'ukraine' (see query below) in different languages since February 1st [here](Twitter/).
 
-Collection complete from 1st to 28th February in the following languages so far, automatic updates are planned to be committed daily:
+Collections are complete from 1. February 2022 in the following languages:
 
-| language                               | Tweet count |
-| -------------------------------------- | ----------- |
-| german (query: ukraine AND lang='de')  | 1,646,411   |
-| english (query: ukraine AND lang='en') | 6,205,853   |
-| english (query: ukraine AND lang='en') | 5,075,811   |
-| ukraine-ru (query:)                    | 581,162     |
-| ukraine-uk (query:)                    | 383,245     |
+| language                               | query                   |
+| -------------------------------------- | ----------------------- |
+| german                                 | ukraine AND lang='de'   | 
+| english (not yet complete)                                | #ukraine AND lang='en'  |
+| russian                                | Украина AND lang:ru     |
+| ukrainian                              |  Україна AND lang:uk    |
 
 
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
