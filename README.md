@@ -59,7 +59,12 @@ Furthermore, every file is available in two CSV versions:
 
 ### How many tweets are in each collection?
 
-We will provide figures with daily counts soon.
+This many:
+
+![counts_de](https://user-images.githubusercontent.com/8951994/157538710-1e865bbd-124e-462a-bdbe-dcd045484b4b.png)
+![counts_ru](https://user-images.githubusercontent.com/8951994/157539106-49c25fcc-f223-4776-954f-ed30cb11c58d.png)
+
+We will provide more figures with daily counts as soon as we do not notice any gaps anymore that would affect them.
 
 ### How can I get the content of the tweets?
 
