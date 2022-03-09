@@ -80,7 +80,7 @@ Here we compare our data with the estimated counts returned by the API:
 ![target_counts_ratio_ukraine-uk](https://user-images.githubusercontent.com/8951994/157499281-e78e763c-8a6a-4edc-bccf-d6dbcb3fc4b8.png)
 ![target_counts_ratio_ukraine-ru](https://user-images.githubusercontent.com/8951994/157499256-0dafcdaa-af00-4282-ac3b-cb815063a8c4.png)
 
-As you can see, there are still gaps, which we are about to fill.
+As you can see, there are still gaps, which we are about to fill. We aim for 95% of the hourly estimated counts by Twitter.
 
 ### Is this ethical/allowed?
 
