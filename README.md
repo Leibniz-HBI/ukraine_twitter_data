@@ -76,7 +76,7 @@ Due to connection and other problems there can and always will be gaps in such a
 Here we compare our data with the estimated counts returned by the API:
 
 ![target_counts_ratio_ukraine-en-hashtag](https://user-images.githubusercontent.com/8951994/157499207-f8ab78cd-b14a-44b6-bbdb-7b16b87f996a.png)
-![target_counts_ratio_ukraine-de](https://user-images.githubusercontent.com/8951994/157499229-82264cac-ee72-42c0-a398-6f39b9a3b848.png)
+![target_counts_ratio_ukraine-de](https://user-images.githubusercontent.com/8951994/157537621-d5a74cc7-63c4-484b-bced-ea5fd5c9af48.png)
 ![target_counts_ratio_ukraine-uk](https://user-images.githubusercontent.com/8951994/157499281-e78e763c-8a6a-4edc-bccf-d6dbcb3fc4b8.png)
 ![target_counts_ratio_ukraine-ru](https://user-images.githubusercontent.com/8951994/157499256-0dafcdaa-af00-4282-ac3b-cb815063a8c4.png)
 
