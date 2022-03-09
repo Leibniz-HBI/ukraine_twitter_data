@@ -57,6 +57,10 @@ Furthermore, every file is available in two CSV versions:
 * one with the IDs only, for easy hydration with tools mentioned below.
 * one with metadata on how the data was collected in every line, for you to filter it to your needs
 
+### How many tweets are in each collection?
+
+We will provide figures with daily counts soon.
+
 ### How can I get the content of the tweets?
 
 Via the Twitter API, e.g. with [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/#hydrate) or, if you prefer a graphical user interface, with the [Hydrator](https://github.com/DocNow/hydrator) by @DocNow.
@@ -64,6 +68,14 @@ Via the Twitter API, e.g. with [twarc](https://twarc-project.readthedocs.io/en/l
 We provide files that do contain the tweet IDs only for this purpose.
 
 If you need any data that is not available this way, we might be able to help you, pending an ethical evaluation of your research goals.
+
+### How do you ensure the quality of the data?
+
+Due to connection and other problems there can and always will be gaps in such a large-scale data collection. We are in the process of meticulously backfilling any gaps that we discover in our data collection.
+
+At the moment we compare our data with the estimated counts returned by the API:
+
+Figures displaying the ratio of estimated to actual count will be provided soon.
 
 ### Is this ethical/allowed?
 
