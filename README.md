@@ -27,7 +27,7 @@ Collections:
 | language                               | query                   | data nearly complete from    |
 | -------------------------------------- | ----------------------- | ---------------------------- |
 | german                                 | ukraine AND lang='de'   | 1. February 2022             |
-| english (not yet complete)             | #ukraine AND lang='en'  | 24. February 2022, 15:00 UTC |
+| english (not yet complete)             | #ukraine AND lang='en'  | 1. February 2022             |
 | russian                                | Украина AND lang:ru     | 1. February 2022             |
 | ukrainian                              |  Україна AND lang:uk    | 1. February 2022             |
 
