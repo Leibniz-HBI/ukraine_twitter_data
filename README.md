@@ -32,6 +32,8 @@ Collections:
 
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
 
+If you are elegible for Academic API access with Twitter and want to add further languages, let us know and we are happy to support you.
+
 ### How was this data collected?
 
 With the [focalevents](https://github.com/ryanjgallagher/focalevents) tool by @ryanjgallagher using our Academic Twitter API access.
@@ -41,8 +43,6 @@ We query tweets that contain the keywords stated above and filter for languages 
 We started collecting tweets on 24. February, backfilling tweets since 1. February.
 
 You find information on whether an ID was collected via the search ('backfilled') or streamed in the data itself. Backfilled data will not contain tweets that have been deleted before the collection time.
-
-We will add languages over time. So far we have planned English, German, Russian and Ukrainian.
 
 ### How is the data structured?
 
@@ -79,12 +79,13 @@ If you need any data that is not available this way, we might be able to help yo
 
 Due to connection and other problems there can and always will be gaps in such a large-scale data collection. We are in the process of meticulously backfilling any gaps that we discover in our data collection.
 
-Here we compare our data with the estimated counts returned by the API:
+Here we compare our data with the estimated counts returned by the API (number of collected tweets per hour divided by Twitter API count estimates):
 
-![target_counts_ratio_ukraine-en-hashtag](https://user-images.githubusercontent.com/8951994/157499207-f8ab78cd-b14a-44b6-bbdb-7b16b87f996a.png)
-![target_counts_ratio_ukraine-de](https://user-images.githubusercontent.com/8951994/157537621-d5a74cc7-63c4-484b-bced-ea5fd5c9af48.png)
-![target_counts_ratio_ukraine-uk](https://user-images.githubusercontent.com/8951994/157499281-e78e763c-8a6a-4edc-bccf-d6dbcb3fc4b8.png)
-![target_counts_ratio_ukraine-ru](https://user-images.githubusercontent.com/8951994/157499256-0dafcdaa-af00-4282-ac3b-cb815063a8c4.png)
+![target_counts_ratio_ukraine-en-hashtag](https://user-images.githubusercontent.com/8951994/157718253-e40451d8-bdd3-48e6-bfb6-e46106397275.png)
+![target_counts_ratio_ukraine](https://user-images.githubusercontent.com/8951994/157718292-60642ecc-8443-4762-9204-87fceac135d3.png)
+![target_counts_ratio_ukraine-uk](https://user-images.githubusercontent.com/8951994/157718338-99d88bd2-7bc3-4c3f-ad9d-9e0cf5545a36.png)
+![target_counts_ratio_ukraine-ru](https://user-images.githubusercontent.com/8951994/157718371-ce2748b3-3406-4381-bf9c-da1b9ad115b6.png)
+
 
 As you can see, there are still gaps, which we are about to fill. We aim for 95% of the hourly estimated counts by Twitter.
 
