@@ -150,6 +150,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501355446342463490,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 00:35:26.159529+00:00,2022-03-09 00:35:26.159529+00:00
 1501355615423193106,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-09 00:40:23.442755+00:00,2022-03-09 00:40:23.442755+00:00
 1501355662399447041,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 00:35:26.159385+00:00,2022-03-09 00:35:26.159385+00:00
+1501355669013864449,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:30:37.136237+00:00,2022-03-10 02:30:37.136237+00:00
 1501355752153255938,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 00:35:26.159271+00:00,2022-03-09 00:35:26.159271+00:00
 1501355791940521984,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-09 00:45:23.986756+00:00,2022-03-09 00:45:23.986756+00:00
 1501355896865230851,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 00:35:26.159027+00:00,2022-03-09 00:40:23.441964+00:00
@@ -7600,6 +7601,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501532511221862401,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 12:20:31.937046+00:00,2022-03-09 12:20:31.937046+00:00
 1501532518914351104,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 12:20:31.936904+00:00,2022-03-09 12:20:31.936904+00:00
 1501532545305001992,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 12:20:31.936807+00:00,2022-03-09 12:20:31.936807+00:00
+1501532549293637632,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:40:28.356887+00:00,2022-03-10 02:40:28.356887+00:00
 1501532567761309704,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 12:20:31.936708+00:00,2022-03-09 12:20:31.936708+00:00
 1501532571703951365,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 12:20:31.936607+00:00,2022-03-09 12:20:31.936607+00:00
 1501532572882505736,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 12:20:31.936498+00:00,2022-03-09 12:20:31.936498+00:00
@@ -10598,6 +10600,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501586673502765061,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 15:55:40.561976+00:00,2022-03-09 15:55:40.561976+00:00
 1501586679869722626,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 15:55:40.561881+00:00,2022-03-09 15:55:40.561881+00:00
 1501586702233747457,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 15:55:40.561774+00:00,2022-03-09 15:55:40.561774+00:00
+1501586735045791750,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:10:28.006382+00:00,2022-03-10 02:10:28.006382+00:00
 1501586741693755405,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 15:55:40.561680+00:00,2022-03-09 15:55:40.561680+00:00
 1501586774241521672,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 15:55:40.561579+00:00,2022-03-09 15:55:40.561579+00:00
 1501586785348079631,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-09 15:55:40.565356+00:00,2022-03-09 15:55:40.565356+00:00
@@ -12393,6 +12396,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501612528664731659,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:35:52.217293+00:00,2022-03-09 17:35:52.217293+00:00
 1501612534654287873,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:35:52.217150+00:00,2022-03-09 17:35:52.217150+00:00
 1501612559148929028,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:35:52.214118+00:00,2022-03-09 17:35:52.214118+00:00
+1501612562768699393,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:15:41.730259+00:00,2022-03-10 02:15:41.730259+00:00
 1501612571169853445,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:35:52.214020+00:00,2022-03-09 17:35:52.214020+00:00
 1501612587867422726,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:35:52.213921+00:00,2022-03-09 17:35:52.213921+00:00
 1501612595979165698,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:35:52.213819+00:00,2022-03-09 17:35:52.213819+00:00
@@ -12440,6 +12444,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501613300332834818,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:40:51.856388+00:00,2022-03-09 17:40:51.856388+00:00
 1501613301112922116,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:40:51.856289+00:00,2022-03-09 17:40:51.856289+00:00
 1501613330049470469,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:40:51.856178+00:00,2022-03-09 17:40:51.856178+00:00
+1501613342154240005,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:15:41.729445+00:00,2022-03-10 02:15:41.729445+00:00
 1501613362375012352,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:40:51.856080+00:00,2022-03-09 17:40:51.856080+00:00
 1501613368234360833,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 17:40:51.855981+00:00,2022-03-09 17:40:51.855981+00:00
 1501613371828887554,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-09 17:40:51.861582+00:00,2022-03-09 17:40:51.861582+00:00
@@ -13166,6 +13171,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501624592539996174,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 18:25:50.577953+00:00,2022-03-09 18:25:50.577953+00:00
 1501624597535506434,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 18:25:50.577855+00:00,2022-03-09 18:25:50.577855+00:00
 1501624602711187464,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 18:25:50.577749+00:00,2022-03-09 18:25:50.577749+00:00
+1501624607274582019,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:05:29.091172+00:00,2022-03-10 02:05:29.091172+00:00
 1501624610042884098,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 18:25:50.577649+00:00,2022-03-09 18:25:50.577649+00:00
 1501624611456393218,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 18:25:50.577550+00:00,2022-03-09 18:25:50.577550+00:00
 1501624620176261120,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 18:25:50.577450+00:00,2022-03-09 18:25:50.577450+00:00
@@ -13718,6 +13724,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501634026850955264,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 19:00:48.923958+00:00,2022-03-09 19:00:48.923958+00:00
 1501634031838019593,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 19:00:48.923853+00:00,2022-03-09 19:00:48.923853+00:00
 1501634039069167616,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 19:00:48.923747+00:00,2022-03-09 19:00:48.923747+00:00
+1501634043028418563,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:30:37.136359+00:00,2022-03-10 02:30:37.136359+00:00
 1501634056949317633,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 19:00:48.923620+00:00,2022-03-09 19:00:48.923620+00:00
 1501634058908221440,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 19:00:48.923500+00:00,2022-03-09 19:05:45.603656+00:00
 1501634061307158535,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 19:00:48.923168+00:00,2022-03-09 19:05:45.603547+00:00
@@ -15620,6 +15627,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501670640415346697,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:30:41.790258+00:00,2022-03-09 21:30:41.790258+00:00
 1501670642831310858,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-09 21:30:41.792419+00:00,2022-03-09 21:30:41.792419+00:00
 1501670694907699209,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:30:41.790161+00:00,2022-03-09 21:30:41.790161+00:00
+1501670704680345601,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:25:30.767404+00:00,2022-03-10 02:25:30.767404+00:00
 1501670706509234177,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:30:41.790062+00:00,2022-03-09 21:30:41.790062+00:00
 1501670721717784580,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:30:41.789950+00:00,2022-03-09 21:30:41.789950+00:00
 1501670724695695362,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:30:41.789835+00:00,2022-03-09 21:30:41.789835+00:00
@@ -15778,6 +15786,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501673939763871748,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:40:39.318374+00:00,2022-03-09 21:40:39.318374+00:00
 1501674005744566282,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:40:39.318277+00:00,2022-03-09 21:40:39.318277+00:00
 1501674029681369091,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:40:39.318181+00:00,2022-03-09 21:40:39.318181+00:00
+1501674030989934593,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:05:29.091743+00:00,2022-03-10 02:05:29.091743+00:00
 1501674038334312452,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:40:39.318082+00:00,2022-03-09 21:40:39.318082+00:00
 1501674062124392460,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:40:39.317983+00:00,2022-03-09 21:40:39.317983+00:00
 1501674094827229185,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 21:40:39.317859+00:00,2022-03-09 21:40:39.317859+00:00
@@ -16049,6 +16058,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501681701151514624,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:11:48.187544+00:00,2022-03-09 22:11:48.187544+00:00
 1501681737138679811,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:11:48.187445+00:00,2022-03-09 22:11:48.187445+00:00
 1501681737897844737,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-09 22:11:48.191770+00:00,2022-03-09 22:11:48.191770+00:00
+1501681738824753152,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:15:41.730353+00:00,2022-03-10 02:15:41.730353+00:00
 1501681739571380227,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:11:48.187346+00:00,2022-03-09 22:11:48.187346+00:00
 1501681752477216775,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:11:48.187244+00:00,2022-03-09 22:11:48.187244+00:00
 1501681846291251204,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:11:48.187124+00:00,2022-03-09 22:11:48.187124+00:00
@@ -16326,6 +16336,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1501689440133169152,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:40:49.261691+00:00,2022-03-09 22:45:37.170512+00:00
 1501689494197739528,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:45:37.170412+00:00,2022-03-09 22:45:37.170412+00:00
 1501689505492967424,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:45:37.170312+00:00,2022-03-09 22:45:37.170312+00:00
+1501689533272059909,ukraine-ru,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:15:41.729759+00:00,2022-03-10 02:15:41.729759+00:00
 1501689541396213771,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:45:37.170211+00:00,2022-03-09 22:45:37.170211+00:00
 1501689555853979652,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:45:37.170105+00:00,2022-03-09 22:45:37.170105+00:00
 1501689565559627776,ukraine-ru,True,True,False,False,False,False,False,False,False,False,2022-03-09 22:45:37.169943+00:00,2022-03-09 22:45:37.169943+00:00
