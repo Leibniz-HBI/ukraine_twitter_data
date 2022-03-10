@@ -59,8 +59,11 @@ Furthermore, every file is available in two CSV versions:
 
 This many:
 
-![counts_de](https://user-images.githubusercontent.com/8951994/157538710-1e865bbd-124e-462a-bdbe-dcd045484b4b.png)
-![counts_ru](https://user-images.githubusercontent.com/8951994/157539106-49c25fcc-f223-4776-954f-ed30cb11c58d.png)
+![counts_en_hashtag (1)](https://user-images.githubusercontent.com/8951994/157707823-c072c965-9ee3-4fd0-8304-1e144eebd85b.png)
+![counts_de (2)](https://user-images.githubusercontent.com/8951994/157707495-280d8925-94e8-4b64-a33c-c715b76f9dd4.png)
+![counts_uk (1)](https://user-images.githubusercontent.com/8951994/157707739-8aa1bb4e-0c53-45bd-973f-ef244fbdad3f.png)
+![counts_ru (2)](https://user-images.githubusercontent.com/8951994/157707219-451b90de-cd36-4c6c-9cc7-69b9239be3b7.png)
+![counts_all (2)](https://user-images.githubusercontent.com/8951994/157707084-d8766e31-a43d-42a7-bda5-0851e6040a53.png)
 
 We will provide more figures with daily counts as soon as we do not notice any gaps anymore that would affect them.
 
