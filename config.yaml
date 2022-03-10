@@ -2,9 +2,6 @@ events:
   - name: ukraine-de
     db_id: ukraine
     target_folder: 'Twitter/German/'
-  - name: ukraine-en
-    db_id: ukraine-en
-    target_folder: 'Twitter/English/'
   - name: ukraine-ru
     db_id: ukraine-ru
     target_folder: 'Twitter/Russian/'

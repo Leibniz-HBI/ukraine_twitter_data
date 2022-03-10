@@ -1,8 +1,7 @@
 cd /home/ubuntu/ukraine_data
 git pull
 pipenv run python scripts/refresh_files.py --chunk_size 250000
-# pipenv run python scripts/split_files.py
-git add --ignore-removal *.csv
-git commit -m "[add] data for $(date +%F)"
+git add --ignore-removal *"$(date --date="yesterday" +%F)"*.csv
+git commit -m "[add] data for $(date --date='yesterday' +%F)"
 git push git@github.com-ukraine_data:Leibniz-HBI/ukraine_data
 
