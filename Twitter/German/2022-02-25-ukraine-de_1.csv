@@ -1,4 +1,5 @@
 id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_convo_search,directly_from_convo_search,from_quote_search,directly_from_quote_search,from_timeline_search,directly_from_timeline_search,inserted_at,last_updated_at
+1497348555366973442,ukraine-de,True,False,False,False,False,False,False,False,False,False,2022-02-26 07:35:07.565200+00:00,2022-02-26 07:35:07.565200+00:00
 1497348555555680258,ukraine-de,True,True,False,False,False,False,False,False,False,False,2022-02-26 00:52:12.719990+00:00,2022-02-26 00:52:12.719990+00:00
 1497348556541284357,ukraine-de,True,True,False,False,False,False,False,False,False,False,2022-02-26 00:52:12.719891+00:00,2022-02-26 00:52:12.719891+00:00
 1497348561721298949,ukraine-de,True,True,False,False,False,False,False,False,False,False,2022-02-26 00:52:12.719783+00:00,2022-02-26 00:52:12.719783+00:00
@@ -5722,6 +5723,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1497359871712370690,ukraine-de,True,True,False,False,False,False,False,False,False,False,2022-02-26 00:51:09.323747+00:00,2022-02-26 00:51:09.323747+00:00
 1497359871775236097,ukraine-de,True,True,False,False,False,False,False,False,False,False,2022-02-26 00:51:09.323640+00:00,2022-02-26 00:51:09.323640+00:00
 1497359874166075393,ukraine-de,True,True,False,False,False,False,False,False,False,False,2022-02-26 00:51:09.323526+00:00,2022-02-26 00:51:09.323526+00:00
+1497359877978664960,ukraine-de,True,False,False,False,False,False,False,False,False,False,2022-03-10 11:25:05.843383+00:00,2022-03-10 11:25:05.843383+00:00
 1497359888225390594,ukraine-de,True,True,False,False,False,False,False,False,False,False,2022-02-26 00:51:09.323312+00:00,2022-02-26 00:51:09.323312+00:00
 1497359889353650182,ukraine-de,True,True,False,False,False,False,False,False,False,False,2022-02-26 00:51:09.323055+00:00,2022-02-26 00:51:09.323055+00:00
 1497359892386140171,ukraine-de,True,False,False,False,False,False,False,False,False,False,2022-02-26 23:21:55.263780+00:00,2022-02-26 23:21:55.263780+00:00
