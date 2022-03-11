@@ -50,7 +50,7 @@ You find information on whether an ID was collected via the search ('backfilled'
 
 We share the data in language specific folders.
 
-The filenames indicate the date of the tweets, one file per day.
+The filenames indicate the date of the tweets.
 
 Furthermore, every file is available in two CSV versions:
 
