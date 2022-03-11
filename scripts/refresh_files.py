@@ -67,6 +67,7 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
         date_trunc('day', created_at) = '{date}'
     order by id"""
             index = 0
+            mode = 'w'
             for data in pd.read_sql_query(query, con=engine, chunksize=chunk_size):
                 print(f'Res shape for index {index}: {data.shape}')
                 if len(data) > 0:
@@ -80,7 +81,7 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
                             f'{event["target_folder"]}hydrator-{date}-{event["name"]}.csv',
                             index=False,
                             header = False,
-                            mode='a'
+                            mode=mode
                         )
                     # dump csv without 'created_at'
                     data.\
@@ -90,6 +91,7 @@ def main(date: datetime.date = None, start_date: datetime.date = None, end_date:
                             index=False
                         )
                 index += 1
+                mode = 'a'
         
 if __name__ == '__main__':
     main()
