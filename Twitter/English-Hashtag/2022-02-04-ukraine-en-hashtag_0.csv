@@ -1182,6 +1182,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489423037212819457,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:47:01.012962+00:00,2022-03-08 16:47:01.012962+00:00
 1489423149590581251,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:47:01.012848+00:00,2022-03-08 16:47:01.012848+00:00
 1489423302040993796,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:47:01.012748+00:00,2022-03-08 16:47:01.012748+00:00
+1489423317555724298,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-09 16:10:30.496891+00:00,2022-03-09 16:10:30.496891+00:00
 1489423413944803328,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:47:01.012641+00:00,2022-03-08 16:47:01.012641+00:00
 1489423468559011843,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:47:01.012542+00:00,2022-03-08 16:47:01.012542+00:00
 1489423476205228035,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:47:01.012443+00:00,2022-03-08 16:47:01.012443+00:00
@@ -3731,6 +3732,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489520375134363651,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-08 16:46:01.083048+00:00,2022-03-08 16:46:01.083048+00:00
 1489520393387974657,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-08 16:47:40.551225+00:00,2022-03-08 16:47:40.551225+00:00
 1489520418713214978,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.285046+00:00,2022-03-08 16:46:28.239251+00:00
+1489520435498786822,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-10 00:30:32.889089+00:00,2022-03-10 00:30:32.889089+00:00
 1489520459573907459,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:46:28.239155+00:00,2022-03-08 16:46:28.239155+00:00
 1489520495024164864,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:46:28.239050+00:00,2022-03-08 16:46:28.239050+00:00
 1489520505849790472,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:46:28.238945+00:00,2022-03-08 16:46:28.238945+00:00
@@ -4973,6 +4975,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489556061321367554,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:46:14.018924+00:00,2022-03-08 16:46:14.018924+00:00
 1489556065700425728,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:54.313393+00:00,2022-03-08 16:46:14.018819+00:00
 1489556110969294849,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:00.345270+00:00,2022-03-08 16:46:14.018710+00:00
+1489556115247538177,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-09 19:45:24.997475+00:00,2022-03-09 19:45:24.997475+00:00
 1489556122805624832,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:46:14.018601+00:00,2022-03-08 16:46:14.018601+00:00
 1489556135053041664,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-08 16:46:01.081647+00:00,2022-03-08 16:46:01.081647+00:00
 1489556146553827329,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.199003+00:00,2022-03-08 16:34:33.199003+00:00
@@ -7830,6 +7833,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489621742167416838,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.184783+00:00,2022-03-08 16:45:40.834038+00:00
 1489621755429892096,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:40.833936+00:00,2022-03-08 16:45:40.833936+00:00
 1489621767979212800,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:40.833825+00:00,2022-03-08 16:45:40.833825+00:00
+1489621773469601794,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-10 00:18:26.787828+00:00,2022-03-10 00:18:26.787828+00:00
 1489621774740381699,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:40.833712+00:00,2022-03-08 16:45:40.833712+00:00
 1489621779014377475,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:40.833611+00:00,2022-03-08 16:45:40.833611+00:00
 1489621820563152898,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:40.833509+00:00,2022-03-08 16:45:40.833509+00:00
@@ -7843,6 +7847,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489622083537711113,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:40.832377+00:00,2022-03-08 16:45:40.832377+00:00
 1489622084875694081,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.269620+00:00,2022-03-08 16:45:34.269620+00:00
 1489622139665883143,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.269517+00:00,2022-03-08 16:45:34.269517+00:00
+1489622155612631044,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-10 00:18:33.086696+00:00,2022-03-10 00:18:33.086696+00:00
 1489622170372567047,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.269411+00:00,2022-03-08 16:45:34.269411+00:00
 1489622185668980746,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.269290+00:00,2022-03-08 16:45:34.269290+00:00
 1489622273401184260,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.290986+00:00,2022-03-08 16:45:34.290986+00:00
@@ -7863,6 +7868,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489622428519215112,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.265778+00:00,2022-03-08 16:45:34.265778+00:00
 1489622430683435011,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.265681+00:00,2022-03-08 16:45:34.265681+00:00
 1489622447431237644,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.265585+00:00,2022-03-08 16:45:34.265585+00:00
+1489622463411630080,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-10 00:18:33.076578+00:00,2022-03-10 00:18:33.076578+00:00
 1489622475398959110,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.265486+00:00,2022-03-08 16:45:34.265486+00:00
 1489622476753555461,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.265388+00:00,2022-03-08 16:45:34.265388+00:00
 1489622485159092234,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.265291+00:00,2022-03-08 16:45:34.265291+00:00
@@ -7890,6 +7896,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489622838986350600,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.284629+00:00,2022-03-08 16:45:34.284629+00:00
 1489622848285122564,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.263381+00:00,2022-03-08 16:45:34.263381+00:00
 1489622867314626561,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.263271+00:00,2022-03-08 16:45:34.263271+00:00
+1489622875078287367,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-10 00:18:33.082773+00:00,2022-03-10 00:18:33.082773+00:00
 1489622891180269572,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.263170+00:00,2022-03-08 16:45:34.263170+00:00
 1489622896393736200,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.263063+00:00,2022-03-08 16:45:34.263063+00:00
 1489622958247194633,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:34.262962+00:00,2022-03-08 16:45:34.262962+00:00
@@ -9817,6 +9824,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489661608116854787,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:13.694943+00:00,2022-03-08 16:45:13.694943+00:00
 1489661632720609282,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:13.694842+00:00,2022-03-08 16:45:13.694842+00:00
 1489661636197728264,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-08 16:45:13.749429+00:00,2022-03-08 16:45:13.749429+00:00
+1489661670943248392,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-10 01:34:01.873322+00:00,2022-03-10 01:34:01.873322+00:00
 1489661731530022915,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:44:53.258715+00:00,2022-03-08 16:45:13.694732+00:00
 1489661734185017344,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:07.177251+00:00,2022-03-08 16:45:13.694598+00:00
 1489661809405669381,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:13.694476+00:00,2022-03-08 16:45:13.694476+00:00
@@ -9943,6 +9951,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489664263195086848,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:13.681118+00:00,2022-03-08 16:45:13.681118+00:00
 1489664272682696709,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:13.681013+00:00,2022-03-08 16:45:13.681013+00:00
 1489664305205284869,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:13.680868+00:00,2022-03-08 16:45:13.680868+00:00
+1489664315967905798,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-10 00:18:46.129966+00:00,2022-03-10 00:18:46.129966+00:00
 1489664342803025922,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:13.680758+00:00,2022-03-08 16:45:13.680758+00:00
 1489664352240250889,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:00.349478+00:00,2022-03-08 16:45:13.680629+00:00
 1489664414450176000,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:13.680168+00:00,2022-03-08 16:45:13.680168+00:00
@@ -10324,6 +10333,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489674243520569345,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-08 16:45:07.176201+00:00,2022-03-08 16:45:07.176201+00:00
 1489674243642216449,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:07.134516+00:00,2022-03-08 16:45:07.134516+00:00
 1489674381748023297,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:44:38.898229+00:00,2022-03-08 16:45:07.134410+00:00
+1489674479668133892,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-09 21:12:07.109524+00:00,2022-03-09 21:12:07.109524+00:00
 1489674503739355138,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:07.134304+00:00,2022-03-08 16:45:07.134304+00:00
 1489674549511827463,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:07.134208+00:00,2022-03-08 16:45:07.134208+00:00
 1489674555727691780,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:45:07.134111+00:00,2022-03-08 16:45:07.134111+00:00
@@ -12288,6 +12298,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489721042142642179,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:44:38.856152+00:00,2022-03-08 16:44:38.856152+00:00
 1489721071364231171,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:44:38.856053+00:00,2022-03-08 16:44:38.856053+00:00
 1489721111201955841,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:44:38.855945+00:00,2022-03-08 16:44:38.855945+00:00
+1489721116348329998,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-09 16:20:33.020557+00:00,2022-03-09 16:20:33.020557+00:00
 1489721145985478656,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:44:38.855845+00:00,2022-03-08 16:44:38.855845+00:00
 1489721153916530689,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:44:38.855694+00:00,2022-03-08 16:44:38.855694+00:00
 1489721190382030848,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:44:38.855578+00:00,2022-03-08 16:44:38.855578+00:00
@@ -12752,6 +12763,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489735395914960903,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.168301+00:00,2022-03-08 16:44:31.931600+00:00
 1489735399542956032,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.168193+00:00,2022-03-08 16:44:31.931479+00:00
 1489735407826731008,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.168095+00:00,2022-03-08 16:44:31.931378+00:00
+1489735453569736709,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-09 21:12:20.923846+00:00,2022-03-09 21:12:20.923846+00:00
 1489735454517870593,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.167974+00:00,2022-03-08 16:44:31.931258+00:00
 1489735504556101633,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.167866+00:00,2022-03-08 16:44:31.931144+00:00
 1489735521517674503,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.167769+00:00,2022-03-08 16:44:31.931037+00:00
@@ -12941,6 +12953,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489743294267637766,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.148550+00:00,2022-03-08 16:44:31.912831+00:00
 1489743316111736833,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.148446+00:00,2022-03-08 16:44:31.912732+00:00
 1489743357186347009,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.148331+00:00,2022-03-08 16:44:31.912625+00:00
+1489743367063834630,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-10 02:01:47.765752+00:00,2022-03-10 02:01:47.765752+00:00
 1489743437989826560,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.148229+00:00,2022-03-08 16:44:31.912516+00:00
 1489743442263560201,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.148134+00:00,2022-03-08 16:44:31.912418+00:00
 1489743447388995588,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.148035+00:00,2022-03-08 16:44:31.912315+00:00
@@ -13139,6 +13152,7 @@ id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_
 1489750005409894402,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.127241+00:00,2022-03-08 16:44:31.892383+00:00
 1489750065568702466,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.127130+00:00,2022-03-08 16:44:31.892267+00:00
 1489750134808530944,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.127015+00:00,2022-03-08 16:44:31.892124+00:00
+1489750165871333386,ukraine-en-hashtag,True,False,False,False,False,False,False,False,False,False,2022-03-09 21:00:29.734651+00:00,2022-03-09 21:00:29.734651+00:00
 1489750198540804100,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.126916+00:00,2022-03-08 16:44:31.892027+00:00
 1489750297941581825,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.126816+00:00,2022-03-08 16:44:31.891930+00:00
 1489750399032594433,ukraine-en-hashtag,True,True,False,False,False,False,False,False,False,False,2022-03-08 16:34:33.126717+00:00,2022-03-08 16:44:31.891829+00:00
