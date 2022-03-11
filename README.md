@@ -106,3 +106,20 @@ We think, sharing this collection contributes to the cause of open science.
 Furthermore, while much of the information contained in the tweets will be dis- and misinformation, this dataset at least provides transparency by enabling researchers and OSINT experts to analyse it independently, which is in the public interest of democratic states.
 
 However, we still ask you to assess your respective use of this data with your ethical review board, and/or with our ethical and legal guidance questionaire [SOCRATES](<https://leibniz-hbi.github.io/socrates/#41-legal-gdpr-and-the-german-federal-data-protection-act>)
+
+## Limitations
+
+This data is mainly limited by the fidelity of the Twitter API and data degradation over time:
+
+* Tweet IDs of Tweets that have been deleted, suspended, hidden or protected before the collection time will not be in the dataset
+* Tweets that have been deleted or otherwise depublished after collection time will not be returned during hydration
+* The collection depends on Twitter's language detection, which is known to be far from perfect, but good enough for large scale assessments:
+  * Tweets that have not been detected as being in one of the collected languages will not be in the collection.
+  * Also, there will be mislabeled tweets (e.g. Dutch as German, or maybe even Ukrainian as Russian) in the collection.
+  * Tweets that do not contain any text (e.g. links or pictures only) might be missing in the collection.
+
+Furthermore, while we backfilled any gaps occuring in the data so far, there might be gaps in the future due to systems failures or errors in our code or used software. We plan to publish the count estimates by Twitter alongside the data automatically in the near future so that researchers can double check themselves.
+
+We do not guarantee any ongoing collection, mainly because Twitter limits the amount of Tweets we can collect per month. So please do not plan with anything beyond what's here already, e.g. for project planning or grant proposals and such.
+
+
