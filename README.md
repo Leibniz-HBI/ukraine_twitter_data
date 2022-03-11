@@ -67,7 +67,7 @@ This many:
 ![counts_ru (2)](https://user-images.githubusercontent.com/8951994/157707219-451b90de-cd36-4c6c-9cc7-69b9239be3b7.png)
 ![counts_all (2)](https://user-images.githubusercontent.com/8951994/157707084-d8766e31-a43d-42a7-bda5-0851e6040a53.png)
 
-We will provide more figures with daily counts as soon as we do not notice any gaps anymore that would affect them.
+These figures will be updated periodically.
 
 ### How can I get the content of the tweets?
 
