@@ -4,3 +4,4 @@ Pipfile.lock
 
 *.log
 notebooks/
+*ignored
