@@ -1,7 +1,5 @@
 **Contributions welcome! Contact us in the issues or create a PR**
 
-**Please report issues with the data if you find any**
-
 # ukraine_data
 
 ![Flag of Ukraine](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png)
