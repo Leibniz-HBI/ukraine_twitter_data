@@ -32,6 +32,8 @@ Collections:
 
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
 
+If you are elegible for Academic API access with Twitter and want to add further languages, let us know and we are happy to support you.
+
 ### How was this data collected?
 
 With the [focalevents](https://github.com/ryanjgallagher/focalevents) tool by @ryanjgallagher using our Academic Twitter API access.
@@ -41,8 +43,6 @@ We query tweets that contain the keywords stated above and filter for languages 
 We started collecting tweets on 24. February, backfilling tweets since 1. February.
 
 You find information on whether an ID was collected via the search ('backfilled') or streamed in the data itself. Backfilled data will not contain tweets that have been deleted before the collection time.
-
-We will add languages over time. So far we have planned English, German, Russian and Ukrainian.
 
 ### How is the data structured?
 
@@ -59,8 +59,11 @@ Furthermore, every file is available in two CSV versions:
 
 This many:
 
-![counts_de](https://user-images.githubusercontent.com/8951994/157538710-1e865bbd-124e-462a-bdbe-dcd045484b4b.png)
-![counts_ru](https://user-images.githubusercontent.com/8951994/157539106-49c25fcc-f223-4776-954f-ed30cb11c58d.png)
+![counts_en_hashtag (1)](https://user-images.githubusercontent.com/8951994/157707823-c072c965-9ee3-4fd0-8304-1e144eebd85b.png)
+![counts_de (2)](https://user-images.githubusercontent.com/8951994/157707495-280d8925-94e8-4b64-a33c-c715b76f9dd4.png)
+![counts_uk (1)](https://user-images.githubusercontent.com/8951994/157707739-8aa1bb4e-0c53-45bd-973f-ef244fbdad3f.png)
+![counts_ru (2)](https://user-images.githubusercontent.com/8951994/157707219-451b90de-cd36-4c6c-9cc7-69b9239be3b7.png)
+![counts_all (2)](https://user-images.githubusercontent.com/8951994/157707084-d8766e31-a43d-42a7-bda5-0851e6040a53.png)
 
 We will provide more figures with daily counts as soon as we do not notice any gaps anymore that would affect them.
 
@@ -76,14 +79,15 @@ If you need any data that is not available this way, we might be able to help yo
 
 Due to connection and other problems there can and always will be gaps in such a large-scale data collection. We are in the process of meticulously backfilling any gaps that we discover in our data collection.
 
-Here we compare our data with the estimated counts returned by the API:
+Here we compare our data with the estimated counts returned by the API (number of collected tweets per hour divided by Twitter API count estimates):
 
-![target_counts_ratio_ukraine-en-hashtag](https://user-images.githubusercontent.com/8951994/157499207-f8ab78cd-b14a-44b6-bbdb-7b16b87f996a.png)
-![target_counts_ratio_ukraine-de](https://user-images.githubusercontent.com/8951994/157537621-d5a74cc7-63c4-484b-bced-ea5fd5c9af48.png)
-![target_counts_ratio_ukraine-uk](https://user-images.githubusercontent.com/8951994/157499281-e78e763c-8a6a-4edc-bccf-d6dbcb3fc4b8.png)
-![target_counts_ratio_ukraine-ru](https://user-images.githubusercontent.com/8951994/157499256-0dafcdaa-af00-4282-ac3b-cb815063a8c4.png)
+![target_counts_ratio_ukraine-en-hashtag](https://user-images.githubusercontent.com/8951994/157718253-e40451d8-bdd3-48e6-bfb6-e46106397275.png)
+![target_counts_ratio_ukraine](https://user-images.githubusercontent.com/8951994/157718292-60642ecc-8443-4762-9204-87fceac135d3.png)
+![target_counts_ratio_ukraine-uk](https://user-images.githubusercontent.com/8951994/157718338-99d88bd2-7bc3-4c3f-ad9d-9e0cf5545a36.png)
+![target_counts_ratio_ukraine-ru](https://user-images.githubusercontent.com/8951994/157718371-ce2748b3-3406-4381-bf9c-da1b9ad115b6.png)
 
-As you can see, there are still gaps, which we are about to fill. We aim for 95% of the hourly estimated counts by Twitter.
+
+We aim for 95% of the hourly estimated counts by Twitter. As you can see, this is not always possible, most likely due to tweet deletions, account bans, account protections, or wrong estimates by Twitter.
 
 ### Is this ethical/allowed?
 
