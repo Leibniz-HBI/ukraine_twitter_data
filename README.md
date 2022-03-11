@@ -120,6 +120,4 @@ This data is mainly limited by the fidelity of the Twitter API and data degradat
 
 Furthermore, while we backfilled any gaps occuring in the data so far, there might be gaps in the future due to systems failures or errors in our code or used software. We plan to publish the count estimates by Twitter alongside the data automatically in the near future so that researchers can double check themselves.
 
-We do not guarantee any ongoing collection, mainly because Twitter limits the amount of Tweets we can collect per month. So please do not plan with anything beyond what's here already, e.g. for project planning or grant proposals and such.
-
-
+We do not guarantee any ongoing collection, mainly because Twitter limits the amount of Tweets we can collect per month. So please do not plan with anything beyond what's here already, e.g. for project planning or grant proposals and such. (Or approach us and we will help you to apply for Academic access to the Twitter API yourself and set up your own collection.)
