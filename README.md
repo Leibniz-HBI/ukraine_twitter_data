@@ -8,6 +8,8 @@ Twitter (and maybe later other social media) data around the Ukraine Invasion in
 
 Data reaches back until February 1st and will be updated daily.
 
+The updates are automatised and should be available every afternoon for the preceding day. Let us know if there are any problems!
+
 Please cite as:
 
 > Münch, F. V., & Kessling, P. (2022, February 25). ukraine_data. https://doi.org/10.17605/OSF.IO/RTQXN
