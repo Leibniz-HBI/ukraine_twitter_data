@@ -22,7 +22,9 @@ Other citation styles can be found on OSF:
 
 ### What data is available?
 
-Right now, we provide data on tweets that contain the hashtag or word 'ukraine' (see query below) in different languages since February 1st [here](Twitter/).
+Right now, we provide data on all tweets that contain the hashtag or word 'ukraine' (see query below) in different languages since February 1st [here](Twitter/) according to the Twitter Academic API.
+
+Furthermore, data on English tweets containing the term 'bucha' are now available.
 
 Collections:
 
