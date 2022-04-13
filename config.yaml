@@ -11,3 +11,6 @@ events:
   - name: ukraine-en-hashtag
     db_id: ukraine-en-hashtag
     target_folder: 'Twitter/English-Hashtag/'
+  - name: bucha-en
+    db_id: bucha-en
+    target_folder: 'Twitter/Bucha-English/'
