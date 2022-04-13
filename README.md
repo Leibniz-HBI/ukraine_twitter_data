@@ -28,10 +28,11 @@ Collections:
 
 | language                               | query                   | data nearly complete from    |
 | -------------------------------------- | ----------------------- | ---------------------------- |
-| german                                 | ukraine AND lang='de'   | 1. February 2022             |
-| english (not yet complete)             | #ukraine AND lang='en'  | 1. February 2022             |
-| russian                                | Украина AND lang:ru     | 1. February 2022             |
-| ukrainian                              |  Україна AND lang:uk    | 1. February 2022             |
+| English                                | bucha AND lang='en'     | 1. March 2022                |
+| English                                | #ukraine AND lang='en'  | 1. February 2022             |
+| German                                 | ukraine AND lang='de'   | 1. February 2022             |
+| Russian                                | Украина AND lang:ru     | 1. February 2022             |
+| Ukrainian                              |  Україна AND lang:uk    | 1. February 2022             |
 
 
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
@@ -63,11 +64,17 @@ Furthermore, every file is available in two CSV versions:
 
 This many:
 
+#### Ukraine
+
 ![counts_en_hashtag (1)](https://user-images.githubusercontent.com/8951994/157707823-c072c965-9ee3-4fd0-8304-1e144eebd85b.png)
 ![counts_de (2)](https://user-images.githubusercontent.com/8951994/157707495-280d8925-94e8-4b64-a33c-c715b76f9dd4.png)
 ![counts_uk (1)](https://user-images.githubusercontent.com/8951994/157707739-8aa1bb4e-0c53-45bd-973f-ef244fbdad3f.png)
 ![counts_ru (2)](https://user-images.githubusercontent.com/8951994/157707219-451b90de-cd36-4c6c-9cc7-69b9239be3b7.png)
 ![counts_all (2)](https://user-images.githubusercontent.com/8951994/157707084-d8766e31-a43d-42a7-bda5-0851e6040a53.png)
+
+#### Bucha
+
+![counts_bucha_en](https://user-images.githubusercontent.com/8951994/163234189-74a92b06-f9a3-43b4-9a4a-8cd07780423d.png)
 
 These figures will be updated periodically.
 
@@ -90,8 +97,11 @@ Here we compare our data with the estimated counts returned by the API (number o
 ![target_counts_ratio_ukraine-uk](https://user-images.githubusercontent.com/8951994/157718338-99d88bd2-7bc3-4c3f-ad9d-9e0cf5545a36.png)
 ![target_counts_ratio_ukraine-ru](https://user-images.githubusercontent.com/8951994/157718371-ce2748b3-3406-4381-bf9c-da1b9ad115b6.png)
 
+![target_counts_ratio_bucha-en](https://user-images.githubusercontent.com/8951994/163234455-095ae7a3-a620-4be1-838c-4586e5cd62ad.png)
 
 We aim for 95% of the hourly estimated counts by Twitter. As you can see, this is not always possible, most likely due to tweet deletions, account bans, account protections, or wrong estimates by Twitter.
+
+In the English Bucha dataset our count is in one hour 18 times higher than the Twitter estimate we got. Most counts are >= 95%, less than 10 hours have only more than 90% of the estimated count.
 
 ### Is this ethical/allowed?
 
@@ -120,6 +130,6 @@ This data is mainly limited by the fidelity of the Twitter API and data degradat
   * Also, there will be mislabeled tweets (e.g. Dutch as German, or maybe even Ukrainian as Russian) in the collection.
   * Tweets that do not contain any text (e.g. links or pictures only) might be missing in the collection.
 
-Furthermore, while we backfilled any gaps occuring in the data so far, there might be gaps in the future due to systems failures or errors in our code or used software. We plan to publish the count estimates by Twitter alongside the data automatically in the near future so that researchers can double check themselves.
+Furthermore, while we backfilled any gaps occuring in the data so far, there might be gaps in the future due to systems failures or errors in our code or used software. We plan to publish the count estimates by Twitter alongside the data automatically in the near future so that researchers can double check themselves. In the meantime, researchers with access to the Twitter Academic API have access to the count endpoints themselves and are able to compare the counts. Please let us know in the Issues if you see any major deviations.
 
 We do not guarantee any ongoing collection, mainly because Twitter limits the amount of Tweets we can collect per month. So please do not plan with anything beyond what's here already, e.g. for project planning or grant proposals and such. (Or approach us and we will help you to apply for Academic access to the Twitter API yourself and set up your own collection.)
