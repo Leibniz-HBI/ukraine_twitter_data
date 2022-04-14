@@ -14,3 +14,12 @@ events:
   - name: bucha-en
     db_id: bucha-en
     target_folder: 'Twitter/Bucha-English/'
+  - name: bucha-de
+    db_id: bucha-de
+    target_folder: 'Twitter/Bucha-German/'
+  - name: bucha-uk
+    db_id: bucha-uk
+    target_folder: 'Twitter/Bucha-Ukrainian/'
+  - name: bucha-ru
+    db_id: bucha-ru
+    target_folder: 'Twitter/Bucha-Russian/'

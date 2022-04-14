@@ -5,7 +5,7 @@ do
 	for j in {0..6}
 	do
 		git add *2022-03-"$i"*_"$j".csv
-		git commit -m "update 2022-03-$i bucha-en"
+		git commit -m "update 2022-03-$i bucha all languages"
 		git push git@github.com-ukraine_data:Leibniz-HBI/ukraine_data
 	done
 done
@@ -16,7 +16,7 @@ do
 	for j in {0..6}
 	do
 	       git add *2022-04-"$i"*_"$j".csv
-	       git commit -m "update 2022-04-$i bucha-en"
+	       git commit -m "update 2022-04-$i bucha all languages"
  	       git push git@github.com-ukraine_data:Leibniz-HBI/ukraine_data
     done
 done
