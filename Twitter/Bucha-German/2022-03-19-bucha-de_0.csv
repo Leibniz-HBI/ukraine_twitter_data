@@ -1,0 +1,15 @@
+id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_convo_search,directly_from_convo_search,from_quote_search,directly_from_quote_search,from_timeline_search,directly_from_timeline_search,inserted_at,last_updated_at
+1504998164172005376,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 18:18:24.086528+00:00,2022-04-13 18:18:24.086528+00:00
+1505001899237466113,bucha-de,True,True,False,False,False,False,False,False,False,False,2022-04-13 18:18:24.044501+00:00,2022-04-13 18:18:24.044501+00:00
+1505060586715062272,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 18:02:25.670875+00:00,2022-04-13 18:02:25.670875+00:00
+1505083575653347329,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 18:16:48.619085+00:00,2022-04-13 18:16:48.619085+00:00
+1505120726331932673,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 18:02:21.092601+00:00,2022-04-13 18:02:21.092601+00:00
+1505129453445296136,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 18:11:58.397346+00:00,2022-04-13 18:11:58.397346+00:00
+1505188757011636230,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 17:36:24.788591+00:00,2022-04-13 17:36:24.788591+00:00
+1505189910520778767,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 17:37:11.498666+00:00,2022-04-13 17:37:11.498666+00:00
+1505191191855390727,bucha-de,True,True,False,False,False,False,False,False,False,False,2022-04-13 18:18:24.044393+00:00,2022-04-13 18:18:24.044393+00:00
+1505191274013503492,bucha-de,True,True,False,False,False,False,False,False,False,False,2022-04-13 18:18:24.044277+00:00,2022-04-13 18:18:24.044277+00:00
+1505195190520356866,bucha-de,True,True,False,False,False,False,False,False,False,False,2022-04-13 18:18:24.044175+00:00,2022-04-13 18:18:24.044175+00:00
+1505197407855906818,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 18:11:58.398294+00:00,2022-04-13 18:11:58.398294+00:00
+1505220052311760896,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 18:11:58.399240+00:00,2022-04-13 18:11:58.399240+00:00
+1505314841711493124,bucha-de,True,False,False,False,False,False,False,False,False,False,2022-04-13 20:21:47.480382+00:00,2022-04-13 20:21:47.480382+00:00
