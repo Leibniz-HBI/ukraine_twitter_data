@@ -135,6 +135,12 @@ Furthermore, while much of the information contained in the tweets will be dis- 
 
 However, we still ask you to assess your respective use of this data with your ethical review board, and/or with our ethical and legal guidance questionaire [SOCRATES](<https://leibniz-hbi.github.io/socrates/#41-legal-gdpr-and-the-german-federal-data-protection-act>)
 
+### I don't want all of the data
+
+You can use Git's sparse checkout feature: https://dev.to/kiwicopple/quick-tip-clone-a-single-folder-from-github-44h6
+
+If you're just interested in single days, the easiest way is to just download single files manually in the Github interface or automated with their url via curl.
+
 ## Limitations
 
 This data is mainly limited by the fidelity of the Twitter API and data degradation over time:
