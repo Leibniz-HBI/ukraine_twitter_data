@@ -139,7 +139,7 @@ However, we still ask you to assess your respective use of this data with your e
 
 You can use Git's sparse checkout feature: https://dev.to/kiwicopple/quick-tip-clone-a-single-folder-from-github-44h6
 
-If you're just interested in single days, the easiest way is to just download single files manually in the Github interface or automated with their url via curl.
+If you're just interested in single days, the easiest way is to just download single files manually in the Github interface or automated with their URL via curl/wget.
 
 ## Limitations
 
