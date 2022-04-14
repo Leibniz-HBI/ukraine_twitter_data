@@ -28,13 +28,16 @@ Furthermore, data on English tweets containing the term 'bucha' are now availabl
 
 Collections:
 
-| language                               | query                   | data nearly complete from    |
-| -------------------------------------- | ----------------------- | ---------------------------- |
-| English                                | bucha AND lang='en'     | 1. March 2022                |
-| English                                | #ukraine AND lang='en'  | 1. February 2022             |
-| German                                 | ukraine AND lang='de'   | 1. February 2022             |
-| Russian                                | Украина AND lang:ru     | 1. February 2022             |
-| Ukrainian                              |  Україна AND lang:uk    | 1. February 2022             |
+| language                               | query                              | data nearly complete from    |
+| -------------------------------------- | ---------------------------------- | ---------------------------- |
+| English                                |  #ukraine AND lang='en'            | 1. February 2022             |
+| German                                 |  ukraine AND lang='de'             | 1. February 2022             |
+| Russian                                |  Украина AND lang:ru               | 1. February 2022             |
+| Ukrainian                              |  Україна AND lang:uk               | 1. February 2022             |
+| English                                |  bucha AND lang='en'               | 1. March 2022                |
+| German                                 |  (bucha OR butscha) AND lang='de'  | 1. March 2022                |
+| Russian                                |  (Бу́ча OR bucha) AND lang:ru       | 1. March 2022                |
+| Ukrainian                              |  (Бу́ча OR bucha) AND lang:uk       | 1. March 2022                |
 
 
 To comply with Twitter TOS and protect people who have decided to delete their tweets, we share tweet IDs, creation date, and metadata about our collection methods and dates only.
@@ -66,7 +69,7 @@ Furthermore, every file is available in two CSV versions:
 
 This many:
 
-#### Ukraine
+#### (\#)Ukraine
 
 ![counts_en_hashtag (1)](https://user-images.githubusercontent.com/8951994/157707823-c072c965-9ee3-4fd0-8304-1e144eebd85b.png)
 ![counts_de (2)](https://user-images.githubusercontent.com/8951994/157707495-280d8925-94e8-4b64-a33c-c715b76f9dd4.png)
@@ -74,9 +77,12 @@ This many:
 ![counts_ru (2)](https://user-images.githubusercontent.com/8951994/157707219-451b90de-cd36-4c6c-9cc7-69b9239be3b7.png)
 ![counts_all (2)](https://user-images.githubusercontent.com/8951994/157707084-d8766e31-a43d-42a7-bda5-0851e6040a53.png)
 
-#### Bucha
+#### Bucha/Butscha/Бу́ча
 
-![counts_bucha_en](https://user-images.githubusercontent.com/8951994/163234189-74a92b06-f9a3-43b4-9a4a-8cd07780423d.png)
+![counts_bucha_en](https://user-images.githubusercontent.com/8951994/163465221-e515eedf-dc6c-456b-835c-8ff1c3bd691c.png)
+![counts_bucha_de](https://user-images.githubusercontent.com/8951994/163465234-5a6b25d4-76c5-4a45-aeb2-2209aa0c1c5e.png)
+![counts_bucha_uk](https://user-images.githubusercontent.com/8951994/163465249-d6994f5b-a361-4424-8590-9369b4e4e8b1.png)
+![counts_bucha_ru](https://user-images.githubusercontent.com/8951994/163465252-207f1d0d-1f9d-4215-910e-9d93c6a06be9.png)
 
 These figures will be updated periodically.
 
@@ -92,18 +98,26 @@ If you need any data that is not available this way, we might be able to help yo
 
 Due to connection and other problems there can and always will be gaps in such a large-scale data collection. We are in the process of meticulously backfilling any gaps that we discover in our data collection.
 
-Here we compare our data with the estimated counts returned by the API (number of collected tweets per hour divided by Twitter API count estimates):
+Here we compare our data with the estimated counts returned by the API (number of collected tweets per hour divided by Twitter API count estimates).
+
+We aim for 95% of the hourly estimated counts by Twitter. As you can see, this is not always possible, most likely due to tweet deletions, account bans, account protections, or wrong estimates by Twitter.
+
+In the English and Bucha datasets our count is for one hour 16-18 times higher than the Twitter estimate we got. We will have a closer look at that asap, but more is usually better than less. Maybe its a glitch caused by daylight saving time (even though we should see that also in other languages) or the 'spikyness' of the event 🤷. Most counts are >= 95%, less than 10 hours have only more than 90% of the estimated count.
+
+#### (\#)Ukraine
 
 ![target_counts_ratio_ukraine-en-hashtag](https://user-images.githubusercontent.com/8951994/157718253-e40451d8-bdd3-48e6-bfb6-e46106397275.png)
 ![target_counts_ratio_ukraine](https://user-images.githubusercontent.com/8951994/157718292-60642ecc-8443-4762-9204-87fceac135d3.png)
 ![target_counts_ratio_ukraine-uk](https://user-images.githubusercontent.com/8951994/157718338-99d88bd2-7bc3-4c3f-ad9d-9e0cf5545a36.png)
 ![target_counts_ratio_ukraine-ru](https://user-images.githubusercontent.com/8951994/157718371-ce2748b3-3406-4381-bf9c-da1b9ad115b6.png)
 
-![target_counts_ratio_bucha-en](https://user-images.githubusercontent.com/8951994/163234455-095ae7a3-a620-4be1-838c-4586e5cd62ad.png)
+#### Bucha/Butscha/Бу́ча
 
-We aim for 95% of the hourly estimated counts by Twitter. As you can see, this is not always possible, most likely due to tweet deletions, account bans, account protections, or wrong estimates by Twitter.
+![target_counts_ratio_bucha-en](https://user-images.githubusercontent.com/8951994/163465293-fd457b95-d64b-4664-bfb5-a1549fb1987b.png)
+![target_counts_ratio_bucha-de](https://user-images.githubusercontent.com/8951994/163465305-b6759f0e-2e7d-4190-a00d-05c3795b3f18.png)
+![target_counts_ratio_bucha-uk](https://user-images.githubusercontent.com/8951994/163465321-79757285-2065-476c-8d39-be2834e9aced.png)
+![target_counts_ratio_bucha-ru](https://user-images.githubusercontent.com/8951994/163465334-04f5ff6d-bdc5-4e32-9cab-8b2b07ba6a9d.png)
 
-In the English Bucha dataset our count is in one hour 18 times higher than the Twitter estimate we got. Most counts are >= 95%, less than 10 hours have only more than 90% of the estimated count.
 
 ### Is this ethical/allowed?
 
