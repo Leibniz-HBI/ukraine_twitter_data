@@ -12,7 +12,7 @@ The updates are automatised and should be available every afternoon for the prec
 
 Please cite as:
 
-> Münch, F. V., & Kessling, P. (2022, February 25). ukraine_data. https://doi.org/10.17605/OSF.IO/RTQXN
+> Münch, F. V., & Kessling, P. (2022, March 1). ukraine_twitter_data. https://doi.org/10.17605/OSF.IO/RTQXN
 
 Other citation styles can be found on OSF:
 
