@@ -1,0 +1,25 @@
+id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_convo_search,directly_from_convo_search,from_quote_search,directly_from_quote_search,from_timeline_search,directly_from_timeline_search,inserted_at,last_updated_at
+1549925334585589761,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 01:16:13.791893+00:00,2022-07-21 06:56:15.371228+00:00
+1550010758766870528,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 06:56:15.370952+00:00,2022-07-21 09:06:28.691983+00:00
+1550044161860112385,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 09:06:28.691691+00:00,2022-07-21 09:16:31.471473+00:00
+1550046946395668481,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 09:16:31.471112+00:00,2022-07-21 09:36:16.477910+00:00
+1550051790816698368,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 09:36:16.477511+00:00,2022-07-21 13:31:59.129852+00:00
+1550094925743771648,bucha-ru,True,False,False,False,False,False,False,False,False,False,2022-07-21 13:31:59.130007+00:00,2022-07-21 13:31:59.130007+00:00
+1550096119182807041,bucha-ru,True,False,False,False,False,False,False,False,False,False,2022-07-22 03:56:14.312967+00:00,2022-07-22 03:56:14.312967+00:00
+1550101743198953474,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 13:31:59.129501+00:00,2022-07-21 13:31:59.129501+00:00
+1550102180471898112,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 13:31:59.129387+00:00,2022-07-21 13:31:59.129387+00:00
+1550108834298875906,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 13:31:59.129122+00:00,2022-07-21 14:56:27.739987+00:00
+1550110861221511168,bucha-ru,True,False,False,False,False,False,False,False,False,False,2022-07-22 11:16:16.273395+00:00,2022-07-22 11:16:16.273395+00:00
+1550121037290844162,bucha-ru,True,False,False,False,False,False,False,False,False,False,2022-07-21 14:56:27.746025+00:00,2022-07-21 14:56:27.746025+00:00
+1550124656400601089,bucha-ru,True,False,False,False,False,False,False,False,False,False,2022-07-22 04:51:24.088169+00:00,2022-07-22 04:51:24.088169+00:00
+1550131560216571904,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 14:56:27.739738+00:00,2022-07-21 15:01:31.635489+00:00
+1550133209018421248,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 15:01:31.635227+00:00,2022-07-21 15:21:17.193042+00:00
+1550135342824656896,bucha-ru,True,False,False,False,False,False,False,False,False,False,2022-07-21 17:51:18.968151+00:00,2022-07-21 17:51:18.968151+00:00
+1550137272623923204,bucha-ru,True,False,False,False,False,False,False,False,False,False,2022-07-21 15:21:17.193173+00:00,2022-07-21 15:21:17.193173+00:00
+1550138403487989760,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 15:21:17.192779+00:00,2022-07-21 16:31:30.300785+00:00
+1550150442230898690,bucha-ru,True,False,False,False,False,False,False,False,False,False,2022-07-21 16:31:30.300900+00:00,2022-07-21 16:31:30.300900+00:00
+1550155476565999618,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 16:31:30.300535+00:00,2022-07-21 17:51:18.968006+00:00
+1550176119634247680,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 17:51:18.967737+00:00,2022-07-21 19:11:16.490752+00:00
+1550196248598151168,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 19:11:16.490494+00:00,2022-07-21 23:06:14.068259+00:00
+1550232481349206017,bucha-ru,True,False,False,False,False,False,False,False,False,False,2022-07-22 05:21:15.562517+00:00,2022-07-22 05:21:15.562517+00:00
+1550254732643549190,bucha-ru,True,True,False,False,False,False,False,False,False,False,2022-07-21 23:06:14.068004+00:00,2022-07-22 01:06:14.319810+00:00
