@@ -1,0 +1,15 @@
+id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_convo_search,directly_from_convo_search,from_quote_search,directly_from_quote_search,from_timeline_search,directly_from_timeline_search,inserted_at,last_updated_at
+1580750162661502976,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 02:41:01.086157+00:00,2022-10-14 02:46:01.150191+00:00
+1580750627998605312,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 02:46:01.149765+00:00,2022-10-14 07:11:14.184537+00:00
+1580817923383316481,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 07:11:14.184276+00:00,2022-10-14 07:41:04.326788+00:00
+1580825619159724032,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 07:41:04.326531+00:00,2022-10-14 15:03:52.024327+00:00
+1580893923886903300,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 15:03:52.024184+00:00,2022-10-14 15:03:52.024184+00:00
+1580895643530596353,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 15:03:52.023857+00:00,2022-10-14 15:03:52.023857+00:00
+1580897760144166913,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-10-14 18:51:08.447784+00:00,2022-10-14 18:51:08.447784+00:00
+1580904095124099072,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 15:03:52.023719+00:00,2022-10-14 15:03:52.023719+00:00
+1580924827959185408,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-10-14 16:28:22.262160+00:00,2022-10-14 16:28:22.262160+00:00
+1580929124050251776,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-10-14 15:03:52.024444+00:00,2022-10-14 15:03:52.024444+00:00
+1580932351361941504,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 15:03:52.023452+00:00,2022-10-14 16:28:22.262004+00:00
+1580958077074800641,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 16:28:22.261483+00:00,2022-10-14 16:28:22.261483+00:00
+1580993453802262529,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 18:51:08.447515+00:00,2022-10-14 21:41:06.254735+00:00
+1581036681645371392,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-10-14 21:41:06.254471+00:00,2022-10-15 08:21:57.877443+00:00
