@@ -1,0 +1,20 @@
+id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_convo_search,directly_from_convo_search,from_quote_search,directly_from_quote_search,from_timeline_search,directly_from_timeline_search,inserted_at,last_updated_at
+1608729538711932931,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-30 08:32:43.360104+00:00,2022-12-30 11:31:00.077134+00:00
+1608768044591120386,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-12-30 11:31:00.077260+00:00,2022-12-30 11:31:00.077260+00:00
+1608768392403746816,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-30 11:31:00.076862+00:00,2022-12-30 16:35:32.422497+00:00
+1608793478640664576,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-12-30 16:35:32.422734+00:00,2022-12-30 16:35:32.422734+00:00
+1608801778233118721,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-12-30 16:35:32.422956+00:00,2022-12-30 16:35:32.422956+00:00
+1608801780942655492,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-30 16:35:32.422387+00:00,2022-12-30 16:35:32.422387+00:00
+1608827830024163330,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-12-30 16:35:32.422855+00:00,2022-12-30 16:35:32.422855+00:00
+1608830242151596032,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-30 16:35:32.422150+00:00,2022-12-30 16:35:32.422150+00:00
+1608834399679967233,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-30 16:35:32.422034+00:00,2022-12-30 16:35:32.422034+00:00
+1608859755128422402,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-30 16:35:32.421759+00:00,2022-12-30 22:04:28.879207+00:00
+1608865591460528128,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-30 22:04:28.879077+00:00,2022-12-30 22:04:28.879077+00:00
+1608890956438441991,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-12-31 14:38:14.484936+00:00,2022-12-31 14:38:14.484936+00:00
+1608897415419154433,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-12-30 22:04:28.879315+00:00,2022-12-30 22:04:28.879315+00:00
+1608899530514370566,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-30 22:04:28.878905+00:00,2022-12-30 22:04:28.878905+00:00
+1608912355013836800,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-12-31 10:21:06.275759+00:00,2022-12-31 10:21:06.275759+00:00
+1608933657053630464,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-30 22:04:28.878642+00:00,2022-12-30 22:04:28.878642+00:00
+1608960563484463104,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-12-31 10:21:06.275868+00:00,2022-12-31 10:21:06.275868+00:00
+1608970290029301760,bucha-uk,True,False,False,False,False,False,False,False,False,False,2022-12-31 01:34:15.500272+00:00,2022-12-31 01:34:15.500272+00:00
+1608972458115366913,bucha-uk,True,True,False,False,False,False,False,False,False,False,2022-12-31 01:34:15.500016+00:00,2022-12-31 10:21:06.275542+00:00
