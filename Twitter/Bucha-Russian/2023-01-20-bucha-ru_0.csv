@@ -1,0 +1,16 @@
+id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_convo_search,directly_from_convo_search,from_quote_search,directly_from_quote_search,from_timeline_search,directly_from_timeline_search,inserted_at,last_updated_at
+1616264022785159174,bucha-ru,True,False,False,False,False,False,False,False,False,False,2023-01-20 11:24:10.971164+00:00,2023-01-20 11:24:10.971164+00:00
+1616316504370192384,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 06:58:28.766303+00:00,2023-01-20 06:58:28.766303+00:00
+1616327964404350977,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 06:58:28.766021+00:00,2023-01-20 09:12:22.355917+00:00
+1616343663096860672,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 09:12:22.355807+00:00,2023-01-20 09:12:22.355807+00:00
+1616352205983850498,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 09:12:22.355668+00:00,2023-01-20 09:12:22.355668+00:00
+1616352891761033216,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 09:12:22.355400+00:00,2023-01-20 11:24:10.970929+00:00
+1616369587208994816,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 11:24:10.970800+00:00,2023-01-20 11:24:10.970800+00:00
+1616386509430480898,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 11:24:10.970677+00:00,2023-01-20 11:24:10.970677+00:00
+1616386862267998208,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 11:24:10.970413+00:00,2023-01-20 14:29:16.149955+00:00
+1616397154041339904,bucha-ru,True,False,False,False,False,False,False,False,False,False,2023-01-20 14:29:16.150084+00:00,2023-01-20 14:29:16.150084+00:00
+1616398220560580610,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 14:29:16.149678+00:00,2023-01-20 19:55:05.222803+00:00
+1616457157070700544,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 19:55:05.185676+00:00,2023-01-20 22:51:17.015776+00:00
+1616526150364168192,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 22:51:17.015653+00:00,2023-01-20 22:51:17.015653+00:00
+1616557254051876876,bucha-ru,True,False,False,False,False,False,False,False,False,False,2023-01-20 22:51:17.015882+00:00,2023-01-20 22:51:17.015882+00:00
+1616557848850305024,bucha-ru,True,True,False,False,False,False,False,False,False,False,2023-01-20 22:51:17.015418+00:00,2023-01-20 22:51:17.015418+00:00
