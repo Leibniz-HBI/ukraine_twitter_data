@@ -1,0 +1,4 @@
+id,event,from_search,directly_from_search,from_stream,directly_from_stream,from_convo_search,directly_from_convo_search,from_quote_search,directly_from_quote_search,from_timeline_search,directly_from_timeline_search,inserted_at,last_updated_at
+1627095828530860035,bucha-de,True,True,False,False,False,False,False,False,False,False,2023-02-19 00:58:34.101352+00:00,2023-02-19 00:58:34.101352+00:00
+1627103609056788480,bucha-de,True,False,False,False,False,False,False,False,False,False,2023-02-19 00:58:34.102723+00:00,2023-02-19 00:58:34.102723+00:00
+1627104016592240641,bucha-de,True,True,False,False,False,False,False,False,False,False,2023-02-19 00:58:34.100827+00:00,2023-02-19 00:58:34.100827+00:00
