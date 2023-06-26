@@ -1,4 +1,4 @@
-**Contributions welcome! Contact us in the issues or create a PR**
+**After closure of the Academic API on 24.6.2023 this collection has stopped. If you cannot rehydrate tweets because of the API closures, feel free to contact us in the issues or via email.**
 
 # ukraine_twitter_data
 
